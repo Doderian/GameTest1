@@ -1,0 +1,4 @@
+repository "BingusGame@BongosStudios@cloud"
+  path "/"
+    br "/main"
+    co "/main"
